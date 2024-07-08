@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tushar2131027
 - 👀 I’m interested in machine learning and backend development using django.
-- 🌱 I’m currently learning machine learning 
+- 🌱 I’m currently learning machine learning and devops operation 
 - 💞️ I’m looking to collaborate on django and machine learning projects 
 - 📫 One can reach me with LinkedIn 
 - 😄 Pronouns: ...
